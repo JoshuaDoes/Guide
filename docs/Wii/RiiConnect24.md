@@ -5,6 +5,7 @@
 ## Requirements
 - A Wii with Internet.
 - An SD card.
+- [nwc24msg.cfg patcher](https://riiconnect24.net/wiimail/nwc24msg/Windows.zip)
 - [IOS Patcher](https://github.com/RiiConnect24/IOS-Patcher/releases)
 - [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 - [WiiXplorer](https://riiconnect24.net/wiimail/WiiXplorer.zip)
@@ -24,5 +25,9 @@ Steps:
 12. Navigate to shared2 > wc24. Hover over nwc24msg.cfg, press the + Button and select Copy.
 13. Select the NAND icon (which used to be the SD Card icon), then select SD.
 14. In the file explorer pane, press the + Button somewhere and select Paste.
+15. Put your SD Card back in your computer.
+16. Open the nwc24msg.cfg patcher .zip and drag and drop the nwc24msg.cfg you copied to your SD Card to the mail.exe program. A dialog box should open and close quickly, that's normal.
+17. Repeat steps 12-14 in reverse order, but select Paste for step 12 and Copy for step 14. A dialog box should pop up asking if you want to overwrite the file, say Yes.
+18. Exit to the Wii Menu.
 
 <div class="notice">Continue to <a href="RiiConnect24">RiiConnect24!</a></div>
