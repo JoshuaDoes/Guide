@@ -7,7 +7,7 @@ Select your exploit:
 <table>
   <tr>
     <th>&lt;3.2</th>
-    <th>Update to 4.3.</th>
+    <th>Update to 4.3</th>
   </tr>
   <tr>
     <td>3.2-3.4</td>

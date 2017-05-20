@@ -3,8 +3,8 @@
 ### Stage: cIOS Installation
 
 ## Requirements
-- A Wii with Internet.
-- An SD card.
+- A Wii with an outbound Internet connection
+- An SD card with at least 128 MB of free space
 - [cIOS Installer](https://sites.google.com/site/completesg/backup-launchers/installation/d2x-cIOS-Installer-Wii.zip?attredirects=0&d=1)
 
 
