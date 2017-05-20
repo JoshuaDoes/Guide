@@ -71,4 +71,4 @@ Inside the zip file you will find versions of the hack for all three regions. Yo
 14. Follow the instructions listed on the screen.
 15. Enjoy.
 
-Continue to [Homebrew Channel Installation](HBC)
+<div class="notice">Continue to <a href="HBC">Homebrew Channel Installation</a></div>

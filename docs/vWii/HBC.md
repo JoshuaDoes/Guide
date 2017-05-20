@@ -16,4 +16,4 @@ Press Continue, then select Homebrew Channel, and press install:
 You cannot install BootMii on Wii U, so ignore it.
 Once, done, exit.
 
-<div class="notice">[Continue to cIOS](cIOS)</div>
+<div class="notice">Continue to <a href="cIOS">cIOS</a></div>

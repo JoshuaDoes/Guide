@@ -17,4 +17,4 @@ Steps:
 4. Go onto Wii Menu -> Message Board, and load the mail with the bomb in - it may be a day ahead or behind on your Wii.
 ![PLACEHOLDER](http://placehold.it/350x150?text=Bomb+WiiMenu)
 
-Continue to [Homebrew Channel Installation](HBC)
+<div class="notice">Continue to <a href="HBC">Homebrew Channel Installation</a></div>

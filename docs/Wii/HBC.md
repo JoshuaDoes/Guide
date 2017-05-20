@@ -18,4 +18,4 @@ Once installed, press back and go to BootMii. If the main screen says you can in
 
 Once, done, exit.
 
-[Continue to cIOS](cIOS)
+<div class="notice">Continue to <a href="cIOS">cIOS</a></div>

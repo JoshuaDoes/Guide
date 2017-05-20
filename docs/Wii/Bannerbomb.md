@@ -21,4 +21,4 @@ Steps:
 ![PLACEHOLDER](http://placehold.it/350x150?text=BannerBomb+Load+Screen)
 6.  The homebrew on your SD card will load. Enjoy!
 
-<div class="notice">Continue to [Homebrew Channel Installation](HBC)</div>
+<div class="notice">Continue to [Homebrew Channel Installation](HBC)</a></div>
