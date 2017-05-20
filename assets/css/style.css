@@ -1,4 +1,4 @@
-@import "{{ site.theme }}";
+@import "jekyll.css";
 
 .notice {
     margin: 2em 0 !important;
