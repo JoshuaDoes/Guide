@@ -16,8 +16,9 @@ Steps:
 1. Copy the Bannerbomb "private" folder to the root of your SD card.
 2.  Extract the boot.elf from HackMii installer to the root of your SD card.
 3.  Put your SD card in your Wii and turn it on.
-4.  Go to the SD Card Menu on the main System Menu screen
+4.  Go to the SD Card Menu on the main System Menu screen.
 5. A message should appear asking to "load boot.dol/.elf". If it freezes or does not appear, download the next .zip file from the Bannerbomb website and start over.
+![PLACEHOLDER](http://placehold.it/350x150?text=BannerBomb+Load+Screen)
 6.  The homebrew on your SD card will load. Enjoy!
 
-Continue to [Homebrew Channel Installation](HBC)
+<div class="notice">Continue to [Homebrew Channel Installation](HBC)</div>

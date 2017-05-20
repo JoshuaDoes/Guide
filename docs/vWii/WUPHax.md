@@ -27,4 +27,4 @@ If it freezes, reboot; the MP4 exploit is not the most stable&tm;
 5. Click on wuphax, and load it. Then, press A to install - it will look like it has frozen, but it has not. Do not worry.
 6. Once done, go to your vWii, and launch the Mii Channel.
 
-Continue to [Homebrew Channel Installation](HBC)
+<div class="notice">Continue to [Homebrew Channel Installation](HBC)</div>
