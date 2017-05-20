@@ -5,10 +5,10 @@
 ## Requirements
 - A Wii with Internet.
 - An SD card.
-- (nwc24msg.cfg patcher)(https://riiconnect24.net/wiimail/nwc24msg/Windows.zip)
-- (IOS Patcher)(https://github.com/RiiConnect24/IOS-Patcher/releases)
-- (Wii Mod Lite)(https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
-- (WiiXplorer)(https://riiconnect24.net/wiimail/WiiXplorer.zip)
+- [nwc24msg.cfg Patcher](https://riiconnect24.net/wiimail/nwc24msg/Windows.zip)
+- [IOS Patcher](https://github.com/RiiConnect24/IOS-Patcher/releases)
+- [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+- [WiiXplorer](https://riiconnect24.net/wiimail/WiiXplorer.zip)
 
 Steps:
 - Patching
@@ -32,43 +32,43 @@ Steps:
   18. Exit to the Wii Menu.
 - Connecting
   1. Go to Wii Options.
-  !(https://riiconnect24.net/images/New_Instructions_1.png)
+  ![Wii Options](https://riiconnect24.net/images/New_Instructions_1.png)
   2. Go to Wii Settings.
-  !(https://riiconnect24.net/images/New_Instructions_2.png)
+  ![Wii Settings](https://riiconnect24.net/images/New_Instructions_2.png)
   3. Go to Page 2, then Internet.
-  !(https://riiconnect24.net/images/New_Instructions_3.png)
+  ![Internet](https://riiconnect24.net/images/New_Instructions_3.png)
   4. Go to Connection Settings.
-  !(https://riiconnect24.net/images/New_Instructions_4.png)
+  ![Connection Settings](https://riiconnect24.net/images/New_Instructions_4.png)
   5. Select your current connection.
-  !(https://riiconnect24.net/images/New_Instructions_5.png)
+  ![Current Connection](https://riiconnect24.net/images/New_Instructions_5.png)
   6. Go to Change Settings.
-  !(https://riiconnect24.net/images/New_Instructions_6.png)
+  ![Change Settings](https://riiconnect24.net/images/New_Instructions_6.png)
   7. Go to Auto-Obtain DNS, then select No, then Advanced Settings.
-  !(https://riiconnect24.net/images/New_Instructions_7.png)
+  ![Auto-Obtain DNS](https://riiconnect24.net/images/New_Instructions_7.png)
   8. Type in 185.82.21.64 as the primary DNS.
-  !(https://riiconnect24.net/images/New_Instructions_8.png)
+  ![Primary DNS](https://riiconnect24.net/images/New_Instructions_8.png)
   9. Type in 8.8.8.8 as the secondary DNS.
-  !(https://riiconnect24.net/images/New_Instructions_9.png)
+  ![Secondary DNS](https://riiconnect24.net/images/New_Instructions_9.png)
   10. Select Confirm, then select Save.
-  !(https://riiconnect24.net/images/New_Instructions_10.png)
+  ![Save DNS](https://riiconnect24.net/images/New_Instructions_10.png)
   11. Select OK to do a connection test.
-  !(https://riiconnect24.net/images/New_Instructions_11.png)
+  ![Connection Test](https://riiconnect24.net/images/New_Instructions_11.png)
   12. Hopefully, the connection test will be successful. Select No to not do a Wii System Update.
-  !(https://riiconnect24.net/images/New_Instructions_12.png)
+  ![Connection Test Successful](https://riiconnect24.net/images/New_Instructions_12.png)
   13. Go to WiiConnect24, then WiiConnect24 again. Make sure it's turned on.
-  !(https://riiconnect24.net/images/New_Instructions_13.png)
-  !(https://riiconnect24.net/images/New_Instructions_14.png)
-  !(https://riiconnect24.net/images/New_Instructions_15.png)
+  ![WiiConnect24 1](https://riiconnect24.net/images/New_Instructions_13.png)
+  ![WiiConnect24 2](https://riiconnect24.net/images/New_Instructions_14.png)
+  ![WiiConnect24 3](https://riiconnect24.net/images/New_Instructions_15.png)
   14. Back on the WiiConnect24 menu, go to Standby Connection. Make sure it's turned on.
-  !(https://riiconnect24.net/images/New_Instructions_16.png)
-  !(https://riiconnect24.net/images/New_Instructions_17.png)
-  !(https://riiconnect24.net/images/New_Instructions_18.png)
-  15. At Slot Illumination, we recommend you turn the disc light on Dim or Bright, but it's up to yopu.
-  !(https://riiconnect24.net/images/New_Instructions_19.png)
-  !(https://riiconnect24.net/images/New_Instructions_20.png)
-  !(https://riiconnect24.net/images/New_Instructions_22.png)
+  ![Standby Connection 1](https://riiconnect24.net/images/New_Instructions_16.png)
+  ![Standby Connection 2](https://riiconnect24.net/images/New_Instructions_17.png)
+  ![Standby Connection 3](https://riiconnect24.net/images/New_Instructions_18.png)
+  15. At Slot Illumination, we recommend you turn the disc light on Dim or Bright, but it's up to you.
+  ![Slot Illumination 1](https://riiconnect24.net/images/New_Instructions_19.png)
+  ![Slot Illumination 2](https://riiconnect24.net/images/New_Instructions_20.png)
+  ![Slot Illumination 3](https://riiconnect24.net/images/New_Instructions_22.png)
   16. Finally, go to the Internet section, then User Agreeements or Agreement/Contact, then Yes. Please read through this (you're probably not gonna read it anyway), because it contains important stuff about RiiConnect24.
-  !(https://riiconnect24.net/images/New_Instructions_23.png)
-  !(https://riiconnect24.net/images/New_Instructions_24.png)
+  ![User Agreements 1](https://riiconnect24.net/images/New_Instructions_23.png)
+  ![User Agreements 2](https://riiconnect24.net/images/New_Instructions_24.png)
 
 <div class="notice">Continue to <a href="RiiConnect24">RiiConnect24!</a></div>
